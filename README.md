@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace with your animated GIF banner -->
-<img src="assets/banner.gif" alt="Filiki Eteria Games" width="100%">
+<img src="assets/intro.gif" alt="Filiki Eteria Games" width="100%">
 
 # Great ideas don't need permission. ✌️
 
